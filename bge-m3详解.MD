@@ -1,3 +1,5 @@
+## 什么是BGE-M3,与bert的区别在哪里？
+
 BAAI/bge-m3 是由北京智源人工智能研究院（BAAI）开发的通用向量模型。它的核心优势在于“M3”特性：**多语言（Multi-Lingual）**、**多功能（Multi-Functionality）**以及**多粒度（Multi-Granularity）**。
 
 以下是关于其结构、输入输出、损失函数以及与 BERT 区别的详细分析：
